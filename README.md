@@ -1,2 +1,2 @@
 # Pilot
-Starting my first Git Rep
+Starting my first Git Repository
